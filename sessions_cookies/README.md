@@ -1,5 +1,6 @@
 # learning Sessions and Cookies
 
+https://www.geeksforgeeks.org/difference-between-session-and-cookies/
 
 | Step | Action | What Happens? |
 |----------|----------|----------|
@@ -25,7 +26,6 @@ Now you see:
 
 Welcome back, Abishek!
 [Logout]
-
 
 3. Click on "Logout"
 This clears the session.
